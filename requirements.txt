@@ -2,5 +2,5 @@ tensorflow
 streamlit
 pandas
 scikit-learn
-sklearn
+
 
