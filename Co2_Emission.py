@@ -15,7 +15,7 @@ def load_data():
     data['route_name'] = data['origin'] + " ➜ " + data['destination']
     return data
 
-st.title("🚚 GreenRoute - Eco-Friendly Delivery Route Optimizer")
+st.title("🚚 Carbon Footprint Optimization in Supply Chain Logistics ")
 
 df = load_data()
 
