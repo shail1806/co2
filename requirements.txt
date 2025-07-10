@@ -1,2 +1,5 @@
-tensorflow
-sklearn
+tensorflow==2.13.0
+streamlit
+pandas
+scikit-learn
+
